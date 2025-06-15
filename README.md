@@ -1,6 +1,6 @@
 ## Salut 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edracoon&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Edracoon/Edracoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
